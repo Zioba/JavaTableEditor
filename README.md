@@ -1,6 +1,6 @@
 The application for working with data in a table format. 
 Features: 
-Adding 
+Adding
 Editing 
 Deletion 
 Paginal output 
