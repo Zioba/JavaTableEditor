@@ -1,3 +1,11 @@
 The application for working with data in a table format. 
-Features: adding, editing, deletion, paginal output, saving/loading (.xml format)
-Requirements: jdom-2.0.6
+
+Features: 
++Add
++Edit
++Remove 
++Page display
++Saving/loading (.xml format)
+
+Requirements: 
++jdom-2.0.6
